@@ -1,0 +1,1 @@
+Made this from the Nano42 base. Probably detected but i just wanted a simple menu for story mode. Excuse how scruffy it is, as i said i didn't really make it. All i have done is added a couple of mod options and changed the colour up a bit. I have used this in multiplayer but have not been banned yet so dunno whats up with that. Basically this i…
